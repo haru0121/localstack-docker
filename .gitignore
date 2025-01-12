@@ -1,2 +1,7 @@
 /localstack_data/*
 .env
+result.log
+main.zip
+/volume
+/main
+.DS_Store
